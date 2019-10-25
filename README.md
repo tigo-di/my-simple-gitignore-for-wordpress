@@ -1,2 +1,6 @@
-# my-simple-gitignore-for-wordpress
-My simple .gitignore for Wordpress - based on pull request https://github.com/github/gitignore/pull/3093
+# My Simple .gitignore for Wordpress
+
+Based on pull request [Update Wordpress.gitignore #3093](https://github.com/github/gitignore/pull/3093)
+
+-----------
+Looking for answers in code ♥ Made by Tiago Dias Batista :rocket:
